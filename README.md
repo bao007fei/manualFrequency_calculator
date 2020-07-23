@@ -3,4 +3,4 @@
 
 ```pip install keyboard```
 
-Than press space key to count events. With more times you count, you have more accurate result.
+Than press space key to count events. With more times count, you'll have more accurate result.
